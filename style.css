@@ -1,0 +1,5 @@
+.img-slider {
+    filter: brightness(0.5);
+    max-height: 800px; 
+    object-fit: cover; 
+}
